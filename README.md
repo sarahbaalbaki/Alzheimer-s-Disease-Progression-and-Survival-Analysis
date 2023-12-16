@@ -1,2 +1,7 @@
 # Alzheimer-s-Disease-Progression-and-Survival-Analysis
 Alzheimer’s Disease Progression and Survival Analysis
+
+Authors: Leah Zhang , Sarah Baalbaki 
+
+This project focuses on a survival analysis of Alzheimer's disease progression to gain a deeper understanding of Alzheimer's disease and aid in the development of effective treatments using techniques designed for survival analysis (time-to-event data) to explore the factors influencing the disease's course, aiming to provide insights for future treatment strategies. Our research builds upon the foundation laid by Sharma et al [2], expanding and improving it in several key aspects. Firstly, we have enriched their study by integrating a cerebrospinal fluid dataset with the Uniform Data Set. Furthermore, by utilizing a variety of feature extraction methods and examining a wider array of machine learning models, such as Random Survival Forest and DeepSurv, we achieved significantly improved model performance (while they reported a best performance c-index of 0.78, our approach yielded a c-index of 0.957). Through our investigations, we establish that the Cox Mixture Model is a leading-edge machine learning method for handling time-to-event data. DeepSurv also emerges as a promising model, delivering comparably high accuracy. Notably, DeepSurv offers a significant advantage in terms of computational efficiency over the Cox Mixture Model, though it slightly lags in accuracy. This efficiency could offer substantial benefits in future applications.
+
