@@ -1,4 +1,4 @@
-# Alzheimer-s-Disease-Progression-and-Survival-Analysis
+# Alzheimers Disease Progression and Survival Analysis
 Alzheimer’s Disease Progression and Survival Analysis
 
 Authors: Leah Zhang , Sarah Baalbaki 
